@@ -1,0 +1,9 @@
+.background-image {
+    width: 100%;
+    height: auto;
+    background-color: #ccc; 
+    background-image: url('https://img.freepik.com/free-photo/handsome-male-dentist-room-with-medical-equipment-background_613910-15128.jpg?t=st=1717388098~exp=1717391698~hmac=abd6e3472c985ca82d9473e40bdfaf0d5db489f087a13f6fa74735d7a2ea7e5d&w=900');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 0 0 0 20px; 
+  }

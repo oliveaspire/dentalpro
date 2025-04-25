@@ -1,0 +1,9 @@
+.background-image {
+  width: 100%;
+  height: auto;
+  background-color: #ccc;
+  background-image: url('https://storage.googleapis.com/devitary-image-host.appspot.com/15848031292911696601-undraw_designer_life_w96d.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 0 0 0 20px;
+}
